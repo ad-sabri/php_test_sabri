@@ -1,0 +1,17 @@
+{
+    "name": "sabri/php_test_sabri",
+    "description": "Projet test for Optimy",
+    "autoload": {
+        "psr-4": {
+            "Framework\\": ["lib", "utils"],
+            "App\\": ["src"]
+        }
+    },
+    "authors": [
+        {
+            "name": "ad-sabri",
+            "email": "sabri.abbassidoukkali@gmail.com"
+        }
+    ],
+    "require": {}
+}
